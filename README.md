@@ -1,2 +1,3 @@
 # Hello-world
-Just another repository
+Life long learning
+never give up!
